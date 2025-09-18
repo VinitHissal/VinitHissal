@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinitHissal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in building ideas to readlity and deploying it.
+- 🌱 Constantly learning
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me vinithissal@gmail.com
 
 <!---
